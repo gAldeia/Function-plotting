@@ -1,0 +1,14 @@
+#canvas {
+	outline: 1px solid black;
+}
+div#canvas_container {
+	width: 600px;
+	float: left;
+}
+div#text_container {
+	float: right;
+	width: calc(100% - 615px);
+
+	font-family: 'Times New Roman', Times, serif;
+	font-size: 18px;
+}
