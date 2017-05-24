@@ -1,6 +1,6 @@
 # function-plotting
 
-Simple HTML page to plot two variable functions in a 3 dimensional projection space.
+Página simples em HTML para plotar funções de duas variáveis (superfícies).
 
 ## O projeto
 
